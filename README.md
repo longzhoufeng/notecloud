@@ -6,7 +6,7 @@
 
 notecloud是一款Markdown笔记管理软件，notecloud支持windows、苹果、linux系统平台，但是目前只编译了windows平台的执行程序，后期会编译成其它平台的执行文件，notecloud支持实时预览、数学表达式、代码高亮,可输出 HTML 和 PDF 文件,也可以直接剪贴粘图像（需要配置picGo图床工具使用）
 
-下载地址：http://www.notecloud.cn/download
+下载地址：[https://github.com/longzhoufeng/notecloud/releases](https://github.com/longzhoufeng/notecloud/releases/tag/v1.1.18)
 
 ### 1、目前来说，提供了六种主题,分别为：
 
